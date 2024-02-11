@@ -1,2 +1,2 @@
 # Hand_Classification
- Hand Classification: Feature Selection and Comparative Analysis of Classification Models
+The aim is to classify whether the samples come from the left hand or the right hand. The dataset consists of 271 samples, 136 from the right side and 135 from the left side, each containing 3302 features. The project aims to achieve the highest percentage of correct classification by using feature selection, including cross-validation, and then applying classification algorithms. For this purpose, three different classification models were tried and the results were compared.
